@@ -1,4 +1,5 @@
-import net.cutereimu.Bitset;
+package net.cutereimu.qrcode;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

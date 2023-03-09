@@ -1,4 +1,4 @@
-package net.cutereimu;
+package net.cutereimu.qrcode;
 
 import java.util.Arrays;
 
